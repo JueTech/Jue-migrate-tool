@@ -1,0 +1,4 @@
+Mon, 28 Sep 2015 23:05:52 retry.py[line:155] DEBUG Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=None)
+Mon, 28 Sep 2015 23:05:52 connectionpool.py[line:203] INFO Starting new HTTP connection (1): iovip.qbox.me
+Mon, 28 Sep 2015 23:05:53 connectionpool.py[line:383] DEBUG "POST /fetch/aHR0cDovL2p1ZS5zby9VcExvYWQvV29ya3NQaG90by8xL2RiOTQ5ZWVmOTVkMWIwOGQuanBn/to/Y2xvdWQ6OWYzNjU2NDNlYTBkOTk3Y2E0YzRkNDJlZGM0ZTRkY2M= HTTP/1.1" 200 119
+Mon, 28 Sep 2015 23:05:53 connectionpool.py[line:203] INFO Starting new HTTP connection (1): rs.qbox.me
