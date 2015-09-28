@@ -3,7 +3,6 @@
 
 from qiniu import *
 from Queue import Queue
-from logging.config import fileConfig
 import pymysql, hashlib, threading, random, sys, json, time, logging
 
 logging.basicConfig(
